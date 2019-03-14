@@ -1,37 +1,5 @@
-## Welcome to GitHub Pages
+#数据可视化分析
+[毕业设计张迪老师的博客](http://www.storagelab.org.cn/zhangdi)
+#知识普及文章
+[chinavis2018参会总结1：信息论在可视化中的应用——转自张迪老师的博客](http://www.storagelab.org.cn/zhangdi/2018/08/12/chinavis2018%E5%8F%82%E4%BC%9A%E8%AE%B0%E5%BD%951%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9C%A8%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/)
 
-You can use the [editor on GitHub](https://github.com/Figfavture/githubFigfavture.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Figfavture/githubFigfavture.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
