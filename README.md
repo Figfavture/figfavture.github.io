@@ -19,9 +19,9 @@
   >> - 在已有的图形基础上，扩展其他的功能或者结合其他的图形来丰富图形的内容，从而引导用户发现更多的信息。
   ![毕业](http://figfavture.github.io/image/542.jpg "狗狗")
   -# 两款Mongodb可视化工具
-  在某些场景下，相比传统的关系数据库和NoSQL数据库，Mongodb拥有不可替代的优势。例如，最近我需要为收集的大量网站进行分类。实际情况是，一个网站可能同时有多个标签，想象一下新浪网，它既是门户站点，也是社区站点，还是新闻、军事的热门站点。传统的关系型数据库需要使用从表来记录这些类别标签，而使用Mongodb就不会有这个问题，而且按照类别筛选站点非常方便，后面我将详细解释。下面，是两款Mongodb的可视化工具，支持最新的Mongodb 3.2版本。
-   [MongoBooster](http://mongobooster.com/downloads)                  
-   [MongoChef](http://3t.io/mongochef/download/platform/)
+  在某些场景下，相比传统的关系数据库和NoSQL数据库，Mongodb拥有不可替代的优势。例如，最近我需要为收集的大量网站进行分类。实际情况是，一个网站可能同时有多个标签，想象一下新浪网，它既是门户站点，也是社区站点，还是新闻、军事的热门站点。传统的关系型数据库需要使用从表来记录这些类别标签，而使用Mongodb就不会有这个问题，而且按照类别筛选站点非常方便，后面我将详细解释。下面，是两款Mongodb的可视化工具，支持最新的Mongodb 3.2版本。            
+   -[MongoBooster](http://mongobooster.com/downloads)                  
+   -[MongoChef](http://3t.io/mongochef/download/platform/)
   
 # 科普文章
 [chinavis2018参会总结1：信息论在可视化中的应用——转自张迪老师的博客](http://www.storagelab.org.cn/zhangdi/2018/08/12/chinavis2018%E5%8F%82%E4%BC%9A%E8%AE%B0%E5%BD%951%EF%BC%9A%E4%BF%A1%E6%81%AF%E8%AE%BA%E5%9C%A8%E5%8F%AF%E8%A7%86%E5%8C%96%E4%B8%AD%E7%9A%84%E5%BA%94%E7%94%A8/)
